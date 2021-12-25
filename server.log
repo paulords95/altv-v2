@@ -1,0 +1,24 @@
+[10:06:59] alt:V Server 8.6 (release)
+[10:06:59] Starting alt:V Server on 0.0.0.0:7788
+[10:06:59] Loading resource chat
+[10:06:59] Loaded resource chat
+[10:06:59] Loading resource freeroam
+[10:06:59] Loaded resource freeroam
+[10:06:59] Loading resource armario
+[10:07:00] Loaded resource armario
+[10:07:00] Loading resource trainer
+[10:07:00] Loaded resource trainer
+[10:07:00] Loading resource coach
+[10:07:00] Loaded resource coach
+[10:07:00] Loading resource blista
+[10:07:00] Loaded resource blista
+[10:07:00] Required server permissions:
+[10:07:00] Optional server permissions:
+[10:07:00] Starting HTTP server on 0.0.0.0:7788
+[10:07:00] Main thread started (ThreadId: 16416)
+[10:07:00] Colshape thread started (ThreadId: 16804)
+[10:07:00] EntityStreamer thread started (ThreadId: 14280)
+[10:07:00] Network thread started (ThreadId: 2216)
+[10:07:00] Console thread started (ThreadId: 832)
+[10:07:00] Server started
+[10:07:02] Paulo connected
